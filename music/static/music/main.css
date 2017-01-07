@@ -1,0 +1,14 @@
+body{
+	background: white url("images/cool.jpg");
+}
+.navbar{
+	border-left: 0;
+}
+.navbar-brand{
+	font-size: 25px;
+	font-family: 'Permanent Marker', cursive;
+}
+/*
+font-family: 'Permanent Marker', cursive;
+font-family: 'Cabin Sketch', cursive;
+*/
